@@ -80,8 +80,19 @@ You can interact with the dashboard [here](https://onedrive.live.com/edit.aspx?r
 5. The MoM average DTI ratio also saw an increase, reaching 13.67% by the end of the year, pointing to a growing financial burden on borrowers, which may require careful monitoring moving forward.
 
 ## Findings
+1. **High number of loan applications**: A total of **38.6K applications** were received, with **33.2K classified as good loans**.
+2. **Increasing loan demand**: Steady growth from **2.3K in January** to **4.3K in December**.
+3. **Top-performing state**: **California** leads in the highest number of applications.
+4. **Debt consolidation** is the most common loan purpose, with 18.2K applications.
+5. **Rising interest rates**: The **average interest rate** in December peaked at **12.36%**, higher than the yearly average.
+6. **Increased Debt-to-Income (DTI)**: December saw the highest DTI at **13.67%**, indicating a growing financial burden on borrowers.
 
-# Recommendation
+## Recommendation
+1. **Monitor borrower risk**: Keep an eye on rising **DTI ratios** and **interest rates** to mitigate potential defaults.
+2. **Focus on debt consolidation products**: Given the high demand, optimize and promote loans tailored for debt consolidation.
+3. **State-level targeting**: Continue capitalizing on opportunities in high-performing states like **California** while exploring potential growth in underperforming regions.
+4. **Review loan qualification criteria**: Given the rise in bad loans, consider adjusting risk criteria or tightening requirements for specific loan categories.
+
 
 ## Limitations
 The dataset is based on a simulated environment and may not reflect real-world dynamics. The analysis is for demonstration purposes.
