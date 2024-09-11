@@ -73,6 +73,11 @@ You can interact with the dashboard [here](https://onedrive.live.com/edit.aspx?r
 
 ### 4.  Month-on-Month Dashboard
 ![](MoM.png)
+1. Loan applications grew steadily over the year, with a noticeable increase in December compared to earlier months, illustrating a positive trend in loan demand.
+2. The MoM total funded amount saw a significant 13.0% increase, suggesting that more funds were being allocated to borrowers as the year progressed, particularly in the latter months.
+3. The MoM total amount received also experienced a 15.8% increase, reflecting improved loan repayment rates or higher loan amounts being collected.
+4. The MoM average interest rate reached 12.36% in December, a higher rate compared to earlier months, potentially indicating tightening credit conditions or increased loan risk.
+5. The MoM average DTI ratio also saw an increase, reaching 13.67% by the end of the year, pointing to a growing financial burden on borrowers, which may require careful monitoring moving forward.
 
 ## Findings
 
